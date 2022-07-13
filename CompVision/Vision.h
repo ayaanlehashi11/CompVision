@@ -3,6 +3,7 @@
 #endif
 
 #include <iostream>
+#include <opencv2/>
 
 template <class T, class U>
 class Vision {
