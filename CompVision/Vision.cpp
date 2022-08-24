@@ -2,9 +2,9 @@
 #include <map>
 #include <limits.h>
 #include <memory>
-#include <thread>
-#include <mutex>
-#include <filesystem>
+#include <opencv2/photo.hpp>
+#include <opencv2/video.hpp>
+#include <opencv2/videoio/videoio.hpp>
 #include "Vision.h"
 
 Vision::Vision()
